@@ -41,7 +41,7 @@
     "@types/node": "^26.2.0",
     "@types/pluralize": "^0.0.33",
     "@types/semver": "^7.5.8",
-    "eslint": "^10.0.2",
+    "eslint": "^10.15.0",
     "typescript": "5.8.3",
     "vitest": "^4.1.12"
   }
